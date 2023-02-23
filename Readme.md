@@ -1,6 +1,6 @@
 # MetaCF & Score-aware MetaCF
 
-***Some of the codes are adopted from [Reference](https://weitianxin.github.io/)***
+***Some of the codes are adopted from [MetaCF](https://drive.google.com/file/d/1_UaPcCQLaEEWUCsMTRIgsvtWqorqsnUm/view)***
 
 ## Requirements
 
